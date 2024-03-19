@@ -12,4 +12,4 @@ This is a simple HTML project showcasing basic HTML and CSS concepts.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-project.git
+   git clone  https://simhadri3759.github.io/coapps/
